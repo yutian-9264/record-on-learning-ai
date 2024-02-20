@@ -5,3 +5,7 @@
 
 2024-2-20:
 - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)，一口气读到第三章，短小精悍，兼顾可读性和专业性，[hacknews上推荐的](https://news.ycombinator.com/item?id=35767789)果然不会错。
+
+2024-2-21:
+- 读不下去，英文和晦涩的词汇交织在一起，不是没有韧性读完，而是觉得就算硬着头皮看到最后，也只是囫囵吞枣，收获不大，遂决定改从中文视频学起。
+  
