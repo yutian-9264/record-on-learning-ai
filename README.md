@@ -9,3 +9,5 @@
 2024-2-21:
 - 读不下去，英文和晦涩的词汇交织在一起，不是没有韧性读完，而是觉得就算硬着头皮看到最后，也只是囫囵吞枣，收获不大，遂决定改从中文视频学起。
   
+2024-2-22：
+- **THE BEST** Path to Learn Deep Learning: https://www.reddit.com/r/deeplearning/comments/i1so7x/comment/g01gkey/
