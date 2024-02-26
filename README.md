@@ -11,3 +11,6 @@
   
 2024-2-22：
 - **THE BEST** Path to Learn Deep Learning: https://www.reddit.com/r/deeplearning/comments/i1so7x/comment/g01gkey/
+
+2024-2-26:
+- 李沐的视频课《动手学深度学习》13/73，李沐讲得比较一般，但目前还是用这个来入门，相比之下，bishop的书讲得就更清楚点，但也有点乱，也许机器学习现阶段就是比较“玄学”。定一下学习计划，一天5节，到周日学到第48节。
