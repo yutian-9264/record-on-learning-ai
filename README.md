@@ -17,3 +17,4 @@
 
 2024-3-7:
 - 把前半部分的理论讲解视频过了一遍，后半部分看到标题就不打算看了（因为一股脑介绍了好多应用，我觉得现在理论没学好不适合去学应用）。这个课程理论讲得比较含糊（也许深度学习现在讲不清楚），重点在编程和应用。
+- > “Don’t jump into deep waters too hastily: while deep learning is no doubt one of the most exciting areas in machine learning, you should master the fundamentals first.”
