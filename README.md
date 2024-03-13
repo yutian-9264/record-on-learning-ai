@@ -18,3 +18,6 @@
 2024-3-7:
 - 把前半部分的理论讲解视频过了一遍，后半部分看到标题就不打算看了（因为一股脑介绍了好多应用，我觉得现在理论没学好不适合去学应用）。这个课程理论讲得比较含糊（也许深度学习现在讲不清楚），重点在编程和应用。
 - > “Don’t jump into deep waters too hastily: while deep learning is no doubt one of the most exciting areas in machine learning, you should master the fundamentals first.”
+
+2024-3-13：
+- 看完了[Stories of Your Life and Others](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)中的"Understand"章节（根据[Andrej Karpathy的推荐](https://karpathy.ai/books.html)），第一次完整地看完科幻小说，前面比较有意思，后面看的太快，没看懂。英文的科幻小说中包含许多晦涩的英语词汇，对于现在的我来说，阅读障碍较大。后续可以先看翻译版，先了解文章的思想。（如果时间充裕且有耐心的话可以看英文版，也算是一种英文学习了）
