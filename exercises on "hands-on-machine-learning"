@@ -1,0 +1,20 @@
+Chapter1
+1.Machine learning means a machine can study knowledge through itself instead of being input.
+2.Image detection, spam detection, translation, information digest.
+3.The labeled training set is the set with labeled by some characteristic.
+4.
+5.
+6.Batch learning.
+7.Instance-based learning.
+8.Unsuoervised, because it does't have a specified characteristic.
+9.Online learning system means the machine can learn in real-time.
+10.
+11.Instance-based learning.
+12.Hyperparameter will affect the model very much.
+13.
+14.The lack of data, overfit, ...
+15.solutions:train more data, use more complex model,...
+16.A test set is to evaluate the model.
+17.to validate whether the model is validate.
+18.train-dev set is part of whole train set.you should use train-dev set to clarify whether the model is bad. You should use it before validate dev set.
+19.There will be good on test set, but if cannot validate the model will perform good on more actual data.
